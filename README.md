@@ -7,7 +7,7 @@ Web Developer
 * 🌍  I'm based in India
 * ✉️  You can contact me at [sundaraperumal132@gmail.com](mailto:sundaraperumal132@gmail.com)
 * 🚀  I'm currently working on [Bezohminds Private Limited](http://bezohminds.com)
-* 🧠  I'm learning Angular
+* 🧠  I'm learning Full-Stack Development
 * 🤝  I'm open to collaborating on Intresting projects
 
 <a href="https://www.github.com/sundar-06" target="_blank" rel="noreferrer"><img
